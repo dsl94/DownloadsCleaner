@@ -1,5 +1,5 @@
 # DownloadsCleaner
-Beofre using script make sure you have Python 3 installed, it may work with Python 2 but I haven't checked
+Beofre using script make sure you have Python installed, it works with both Python 2 and Python 3
 
 Steps for using (First tree steps can be done just once and when you setup everything you can just run script when needed)
 1. Configure folders you want to clean, put them inside paths list
